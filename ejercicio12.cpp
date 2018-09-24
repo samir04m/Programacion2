@@ -7,7 +7,7 @@ int main(){
 	double suma_positivo=0, suma_negativo=0, media_positivos, media_negativos;
 	int n_positivos=0, n_negativos=0, numero;
 	
-	for (int i=1; i<=10; i++){
+	for (int i=1; i<=100; i++){
 		
 		cout<<"Ingrese un numero: ";
 		cin>>numero;

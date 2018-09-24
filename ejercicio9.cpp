@@ -1,3 +1,6 @@
+/* 9. Diseñar un algoritmo que lea un numero X comprendido entre 1 y 10 e imprima la tabla de multiplicar
+correspondiente a ese número. */
+
 #include <iostream>
 using namespace std;
 
